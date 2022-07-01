@@ -8,8 +8,7 @@ export default createGlobalStyle`
    }
    *,button,input{
     border: none;
-    font-family: 'Roboto', sans-serif;
-    cursor: pointer;
+    font-family: 'Roboto', sans-serif; 
     outline: 0;
 }
    html,border-style,#root{
